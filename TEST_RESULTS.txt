@@ -1,0 +1,20 @@
+test_arithmetic_precedence (test_compiler.CompilerLabTests.test_arithmetic_precedence) ... ok
+test_common_prefix_not_necessarily_slr_conflict (test_compiler.CompilerLabTests.test_common_prefix_not_necessarily_slr_conflict) ... ok
+test_compact_notation (test_compiler.CompilerLabTests.test_compact_notation) ... ok
+test_constant_folding (test_compiler.CompilerLabTests.test_constant_folding) ... ok
+test_empty_input_with_epsilon (test_compiler.CompilerLabTests.test_empty_input_with_epsilon) ... ok
+test_epsilon (test_compiler.CompilerLabTests.test_epsilon) ... ok
+test_input_validation (test_compiler.CompilerLabTests.test_input_validation) ... ok
+test_no_code_execution (test_compiler.CompilerLabTests.test_no_code_execution) ... ok
+test_parentheses_lexemes (test_compiler.CompilerLabTests.test_parentheses_lexemes) ... ok
+test_reduce_reduce_conflicts (test_compiler.CompilerLabTests.test_reduce_reduce_conflicts) ... ok
+test_report_one_plus_zero (test_compiler.CompilerLabTests.test_report_one_plus_zero) ... ok
+test_report_pq (test_compiler.CompilerLabTests.test_report_pq) ... ok
+test_shift_reduce_conflicts (test_compiler.CompilerLabTests.test_shift_reduce_conflicts) ... ok
+test_start_symbol_not_hardcoded (test_compiler.CompilerLabTests.test_start_symbol_not_hardcoded) ... ok
+test_syntax_rejection (test_compiler.CompilerLabTests.test_syntax_rejection) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.004s
+
+OK
